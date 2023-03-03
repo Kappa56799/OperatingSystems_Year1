@@ -1,0 +1,2 @@
+mkdir -p lab/sysDetails/reports
+If you redirct a file with text already on it with just > it will overwrite everything that is in that file
