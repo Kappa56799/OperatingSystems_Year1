@@ -29,5 +29,4 @@ The first repository that I will use to learn Git commands.
 ![question5_Part_1](https://user-images.githubusercontent.com/114831362/223539140-484b233e-a054-45b8-a492-2138a071964e.png)
 ![question5_Part_2](https://user-images.githubusercontent.com/114831362/223539145-83a6cd8e-d5f9-4d11-8435-51a0a9adf416.png)
 ![question5_Part_3](https://user-images.githubusercontent.com/114831362/223539149-c2ddec70-a83c-4e47-b6c2-cd766ed40f63.png)
-![opsystems](https://user-images.githubusercontent.com/114831362/222747983-1a1e4fe0-9b4b-4081-9a8e-db37ada1464d.png)
 
