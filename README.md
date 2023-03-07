@@ -1,7 +1,8 @@
 <h1><p align = "center">OperatingSystems_Year1</p></h1>
 The first repository that I will use to learn Git commands.
 
-![opsystems1](https://user-images.githubusercontent.com/114831362/223539099-9864035f-90b8-4ab8-96c9-33bf9a79062d.png)
+![opsystems](https://user-images.githubusercontent.com/114831362/222747983-1a1e4fe0-9b4b-4081-9a8e-db37ada1464d.png)
+
 
 <h1><p align ="center">ALICE ASSIGNMENT PICTURES</p></h1>
 
@@ -19,6 +20,7 @@ The first repository that I will use to learn Git commands.
 
 <h1><p align ="center">LAB 7 PICTURES</p></h1>
 
+![opsystems1](https://user-images.githubusercontent.com/114831362/223539099-9864035f-90b8-4ab8-96c9-33bf9a79062d.png)
 ![question2_Part_1](https://user-images.githubusercontent.com/114831362/223539108-206ddfa8-0b62-4947-8b6b-cffa36aa7d9a.png)
 ![question2_Part_2](https://user-images.githubusercontent.com/114831362/223539112-61f965ef-1064-4fe4-b3ad-2f3c0a91e92f.png)
 ![question3_Part_1](https://user-images.githubusercontent.com/114831362/223539119-77dbd237-2b82-4385-aa91-65a1ab6408ff.png)
