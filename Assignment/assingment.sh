@@ -6,7 +6,7 @@ do
 
 
   #menu display
-  echo "\n* Bash Commands *"
+  echo "* Bash Commands *"
   echo "1. List Files"
   echo "2. Show Free disk space"
   echo "3. Show System path"
