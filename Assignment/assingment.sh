@@ -1,9 +1,10 @@
 #!/bin/bash
 while true;
 do
+  #allows history in current terminal session
   set -o history
 
-
+  #menu display
   echo "\n* Bash Commands *"
   echo "1. List Files"
   echo "2. Show Free disk space"
@@ -12,8 +13,10 @@ do
   echo "5. Backup Files"
   echo "6. Exit"
 
+  #reads in input from the user
   read input
 
+  #case statment to process user input
   case $input in
     1) echo "These are the current files in your directory:"; ls -a; echo;;
     2) echo "This is the amount of disk space you have left:"; df -h; echo;;
