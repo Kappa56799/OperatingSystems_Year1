@@ -2,7 +2,8 @@
 while true;
 do
   #allows history in current terminal session
-  set -o history
+  history=$(cat ~/.bash_history)
+
 
   #menu display
   echo "\n* Bash Commands *"
@@ -21,7 +22,7 @@ do
     1) echo "These are the current files in your directory:"; ls -a; echo;;
     2) echo "This is the amount of disk space you have left:"; df -h; echo;;
     3) echo "Your system path is:"; echo $PATH; echo;;
-    4) echo "Your command history is:"; history ;echo ;;
+    4) echo "Your command history is:"; echo $history ;echo ;;
     5) echo "Enter your directory you want to backup in format /your/directory/here: "; read directory; mkdir ~/BackupFolder;cd $directory; cp -r $directory ~/BackupFolder; ls -a ;echo;;
     6) exit 1;;
     *) echo "Invalid Input Try Again"; echo;;
