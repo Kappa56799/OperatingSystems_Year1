@@ -5,7 +5,8 @@ The first repository that I will use to learn Git commands.
 
 <h1 align="center"><p> All Files Can be Found Here</p></h1>
 
-<p>Week 2</p> [Week2](Week2/)
+<h2>Week 2</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week2">Here</a>
 
 <p>Week 3</p>
 
