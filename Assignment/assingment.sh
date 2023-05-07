@@ -1,9 +1,8 @@
 #!/bin/bash
+#assigns the bash history to a Variable
+history=$(cat ~/.bash_history) 
 while true;
 do
-  #allows history in current terminal session
-  history=$(cat ~/.bash_history)
-
 
   #menu display
   echo "* Bash Commands *"

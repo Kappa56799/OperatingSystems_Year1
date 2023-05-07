@@ -15,6 +15,6 @@ do
     2) echo "Current Uptime on system is:"; uptime;echo;;
     3) echo "Users Logged in ATM are"; who;echo;;
     q) echo "GoodBye!"; exit 1;;
-    *) echo "Invalid Input Try Again";echo
+    *) echo "Invalid Input Try Again";echo;
   esac
 done
