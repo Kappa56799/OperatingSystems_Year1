@@ -5,7 +5,7 @@ The first repository that I will use to learn Git commands.
 
 <h1 align="center"><p> All Files Can be Found Here</p></h1>
 
-<p>Week 2</p>
+<p>Week 2</p> [Week2](Week2/)
 
 <p>Week 3</p>
 
