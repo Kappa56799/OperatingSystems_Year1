@@ -6,16 +6,26 @@ The first repository that I will use to learn Git commands.
 <h1 align="center"><p> All Files Can be Found Here</p></h1>
 
 <h2>Week 2</h2>
-<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week2">Here</a>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week2">Week 2 Lab</a>
 
-<p>Week 3</p>
+<h2>Week 3</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week3">Week 3 Lab</a>
 
-<p>Week 4</p>
+<h2>Week 4</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week4">Week 4 Lab</a>
 
-<p>Week 5</p>
+<h2>Week 5</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week5">Week 5 Lab</a>
 
-<p>Week 6</p>
+<h2>Week 6</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week6">Week 6 Lab</a>
 
-<p>Week 7</p>
+<h2>Week 7</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Week7">Week 7 Lab</a>
 
-<p>Assignment</p>
+<h2>Alice Lab</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/AliceLab">Alice Lab</a>
+
+<h2>Assignment</h2>
+<a href="https://github.com/Kappa56799/OperatingSystems_Year1/tree/main/Assignment">Assignment</a>
+
